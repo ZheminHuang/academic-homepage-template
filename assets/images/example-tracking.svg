@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Illustrative tracking trajectories, not experimental data</title>
+  <rect width="720" height="480" fill="white"/>
+  <g stroke="#e2e8ee" stroke-width="2"><path d="M110 150H644M110 250H644M110 350H644M230 86V388M370 86V388M510 86V388"/></g>
+  <path d="M110 86V388H650" fill="none" stroke="#667781" stroke-width="3"/>
+  <path d="M122 322C185 260 208 108 291 133S370 356 457 297S548 136 636 163" fill="none" stroke="#8553a4" stroke-width="5" stroke-dasharray="12 8"/>
+  <path d="M122 349C171 274 220 120 290 145S374 343 456 292S550 145 636 170" fill="none" stroke="#326879" stroke-width="5"/>
+  <g font-family="Arial,sans-serif" font-size="23" fill="#526471"><text x="341" y="439">Time</text><text transform="translate(58 281) rotate(-90)">Position</text><text x="157" y="54" fill="#8553a4">Reference</text><text x="428" y="54" fill="#326879">Tracking</text></g>
+</svg>

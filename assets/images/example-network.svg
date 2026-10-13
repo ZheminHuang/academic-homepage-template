@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Illustrative network coordination diagram</title>
+  <rect width="720" height="480" fill="white"/>
+  <g fill="none" stroke="#c7d1d7" stroke-width="3"><path d="M110 120H360L610 120M110 350H360L610 350M110 120V350M360 120V350M610 120V350M110 120L360 350L610 120M110 350L360 120L610 350"/></g>
+  <path d="M110 350L110 120H360L610 350" fill="none" stroke="#326879" stroke-width="7"/>
+  <path d="M110 350H360L610 120V350" fill="none" stroke="#8553a4" stroke-width="5" stroke-dasharray="12 8"/>
+  <g fill="#fff" stroke="#526471" stroke-width="3"><circle cx="110" cy="120" r="30"/><circle cx="360" cy="120" r="30"/><circle cx="610" cy="120" r="30"/><circle cx="110" cy="350" r="30"/><circle cx="360" cy="350" r="30"/><circle cx="610" cy="350" r="30"/></g>
+  <g font-family="Arial,sans-serif" font-size="25" text-anchor="middle" fill="#292b30"><text x="110" y="129">1</text><text x="360" y="129">2</text><text x="610" y="129">3</text><text x="110" y="359">4</text><text x="360" y="359">5</text><text x="610" y="359">6</text></g>
+</svg>

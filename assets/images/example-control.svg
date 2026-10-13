@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title">
+  <title id="title">Illustrative feedback control diagram</title>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#64717c"/></marker></defs>
+  <rect width="720" height="480" fill="white"/>
+  <g fill="none" stroke="#64717c" stroke-width="3" marker-end="url(#arrow)"><path d="M222 250H284"/><path d="M440 250H502"/><path d="M580 300V384H144V304"/><path d="M360 151V196"/></g>
+  <g stroke-width="2"><rect x="64" y="198" width="158" height="104" rx="6" fill="#e8f1f3" stroke="#326879"/><rect x="284" y="198" width="156" height="104" rx="6" fill="#f0eaf5" stroke="#8553a4"/><rect x="502" y="198" width="158" height="104" rx="6" fill="#e8f1f3" stroke="#326879"/><rect x="284" y="69" width="156" height="82" rx="6" fill="#f4f6f8" stroke="#87929a"/></g>
+  <g font-family="Arial,sans-serif" font-size="25" text-anchor="middle" fill="#292b30"><text x="143" y="259">Learner</text><text x="362" y="259">Controller</text><text x="581" y="259">Robot</text><text x="362" y="120">Reference</text><text x="362" y="422" font-size="22" fill="#64717c">Feedback</text></g>
+</svg>

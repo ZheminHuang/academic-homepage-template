@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" viewBox="0 0 480 600" role="img" aria-labelledby="title">
+  <title id="title">Alex Researcher monogram placeholder</title>
+  <rect width="480" height="600" fill="#e5edf0"/>
+  <path d="M0 460H480V600H0Z" fill="#d3e0e4"/>
+  <text x="240" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="128" fill="#326879">AR</text>
+</svg>
